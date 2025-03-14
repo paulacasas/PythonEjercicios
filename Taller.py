@@ -54,18 +54,3 @@ while(True):
 
 
 
-
-
-
-# Taller
-# Gestión de una Lista de Tareas con POO
-# Descripción del Ejercicio
-# Vas a crear una aplicación simple que gestione una lista de tareas (To-Do List) utilizando clases y objetos . La lista de tareas se
-# almacenará en un archivo de texto llamado tareas.txt. El programa permitirá:
-# Agregar una nueva tarea al archivo.1.
-# Mostrar todas las tareas guardadas en el archivo.2.
-# .3.
-# Este ejercicio combina:
-# POO : Crearás una clase para gestionar las tareas.
-# Manipulación de archivos : Leerás y escribirás en un archivo de texto.
-# Manejo de excepciones : Capturarás errores comunes como archivos inexistentes.
